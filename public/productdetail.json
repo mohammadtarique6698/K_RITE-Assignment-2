@@ -1,0 +1,151 @@
+[
+    {
+        "id": 1,
+        "BrandName": "Microsoft",
+        "Description": "Lorem ipsum",
+        "Members": [
+            "RU1",
+            "RU2",
+            "RU3",
+            "RU4",
+            "RU5"
+        ],
+        "Categories": [
+            "Automation"
+        ],
+        "Tags": [
+            "#BusinessDevelopment",
+            "#Ecommerce",
+            "#Productivity"
+        ],
+        "NextMeeting": "In 30 mins",
+        "+": ""
+    },
+    {
+        "id": 2,
+        "BrandName": "Apple",
+        "Description": "Lorem ipsum dolor sit amet",
+        "Members": [
+            "A1",
+            "A2"
+        ],
+        "Categories": [
+            "Technology",
+            "Innovation"
+        ],
+        "Tags": [
+            "#TechInnovation",
+            "#ProductDesign",
+            "#BrandBuilding"
+        ],
+        "NextMeeting": "Tomorrow at 2 PM",
+        "+": ""
+    },
+    {
+        "id": 3,
+        "BrandName": "Google",
+        "Description": "Dolor sit amet, consectetur adipiscing elit",
+        "Members": [
+            "G1",
+            "G2",
+            "G3"
+        ],
+        "Categories": [
+            "Search",
+            "Cloud"
+        ],
+        "Tags": [
+            "#SearchEngine",
+            "#CloudComputing",
+            "#Innovation"
+        ],
+        "NextMeeting": "Today at 4 PM",
+        "+": ""
+    },
+    {
+        "id": 4,
+        "BrandName": "Amazon",
+        "Description": "Consectetur adipiscing elit, sed do eiusmod tempor",
+        "Members": [
+            "AM1",
+            "AM2",
+            "AM3",
+            "AM4"
+        ],
+        "Categories": [
+            "Ecommerce",
+            "Cloud"
+        ],
+        "Tags": [
+            "#EcommerceGiant",
+            "#CloudServices",
+            "#DigitalTransformation"
+        ],
+        "NextMeeting": "Next week",
+        "+": ""
+    },
+    {
+        "id": 5,
+        "BrandName": "Tesla",
+        "Description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "Members": [
+            "T1"
+        ],
+        "Categories": [
+            "Automotive",
+            "Renewable Energy"
+        ],
+        "Tags": [
+            "#ElectricVehicles",
+            "#RenewableEnergy",
+            "#Innovation"
+        ],
+        "NextMeeting": "Next month",
+        "+": ""
+    },
+    {
+        "id": 6,
+        "BrandName": "Facebook",
+        "Description": "Ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "Members": [
+            "FB1",
+            "FB2",
+            "FB3",
+            "FB4",
+            "FB5"
+        ],
+        "Categories": [
+            "Social Media",
+            "Technology"
+        ],
+        "Tags": [
+            "#SocialNetworking",
+            "#TechInnovation",
+            "#DigitalMarketing"
+        ],
+        "NextMeeting": "Next week",
+        "+": ""
+    },
+    {
+        "id": 7,
+        "BrandName": "Samsung",
+        "Description": "Minim veniam, quis nostrud exercitation ullamco laboris",
+        "Members": [
+            "S1",
+            "S2",
+            "S3",
+            "S4"
+        ],
+        "Categories": [
+            "Electronics",
+            "Technology"
+        ],
+        "Tags": [
+            "#Electronics",
+            "#TechInnovation",
+            "#Innovation"
+        ],
+        "NextMeeting": "Today at 3 PM",
+        "+": ""
+    }
+]
